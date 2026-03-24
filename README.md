@@ -12,8 +12,9 @@
 
 ## 🧰 Tech Stack
 - SQL Server  
-- Python  
+- Visual Studio
 - Visual Basic  
+- Python  
 ---
 
 ## 📂 Projects
@@ -26,5 +27,5 @@
 ---
 
 ## 📫 Contact
-- 📧 clizzoli@outlook.com
 - 📧 clizzoli@gmail.com
+- 📧 clizzoli@outlook.com
