@@ -1,16 +1,30 @@
 ## Hi there 👋
+# 👋 Hi, I'm Carlos Lizzoli
 
-<!--
-**CarlosLizzo/CarlosLizzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Systems Analyst specializing in SQL Server, backend development and automation.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🧠 Analytical mindset focused on practical solutions  
+- 🗄️ Strong experience with SQL Server and data management  
+- ⚙️ Interested in automation and process optimization  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- SQL Server  
+- Python  
+- Visual Basic  
+---
+
+## 📂 Projects
+- 🔧 GESTIOPTIMA (in progress)
+---
+
+## 🧍‍♂️ Beyond Code
+- 🏃 Runner  
+- 🥁 Drummer  
+---
+
+## 📫 Contact
+- 📧 clizzoli@outlook.com
+- 📧 clizzoli@gmail.com
